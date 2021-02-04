@@ -31,7 +31,9 @@ export function NavBar() {
 				<button className="btn btn-dark">
 					<ul className="navbar-nav">
 						<li className="nav-item active">
-							<a className="nav-link" href="#">
+							<a
+								className="nav-link"
+								href="https://economia.ucr.ac.cr/es/inicio">
 								Home <span className="sr-only">(current)</span>
 							</a>
 						</li>
@@ -40,7 +42,9 @@ export function NavBar() {
 				<button className="btn btn-dark">
 					<ul className="navbar-nav">
 						<li className="nav-item active">
-							<a className="nav-link" href="#">
+							<a
+								className="nav-link"
+								href="https://www.youtube.com/watch?v=kpHpG59kDB0">
 								About <span className="sr-only">(current)</span>
 							</a>
 						</li>
@@ -49,7 +53,9 @@ export function NavBar() {
 				<button className="btn btn-dark">
 					<ul className="navbar-nav">
 						<li className="nav-item active">
-							<a className="nav-link" href="#">
+							<a
+								className="nav-link"
+								href="https://github.com/davidmorasalazar">
 								Services
 								<span className="sr-only">(current)</span>
 							</a>
